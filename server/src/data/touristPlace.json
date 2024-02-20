@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "district": "Kanyakumari",
+    "visit": [
+      {
+        "name": "Kanyakumari Beach",
+        "famousFor": "Its famous for sunrise and sunset"
+      },
+      {
+        "name": "Cholachel Beach",
+        "famousFor": "Its famous for sunrise and sunset and also harbour"
+      },
+      {
+        "name": "Mathoor thotti palam",
+        "famousFor": "Its famous for sunrise and sunset"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "district": "Thoothukudi",
+    "visit": [
+      {
+        "name": "Thoothukudi Beach",
+        "famousFor": "Its famous for sunrise and sunset"
+      },
+      {
+        "name": "Pearl Beach",
+        "famousFor": "Its famous for sunrise and sunset and also harbour"
+      },
+      {
+        "name": "Kovilpatti",
+        "famousFor": "Its famous for sunrise and sunset"
+      }
+    ]
+  }
+]
